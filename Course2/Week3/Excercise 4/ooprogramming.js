@@ -41,4 +41,4 @@ function manager() {
     return manager;
 }
 
-manager();
+//manager();
